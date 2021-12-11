@@ -1,0 +1,2 @@
+Prefix plugins/MetaSPAdes/example/
+Plugin MetaSPAdes inputfile parameters.txt outputfile assembly
